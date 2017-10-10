@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae6cf553-e405-490d-b5c7-cbacaa958400" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeializeandDeserializeBinaryTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegularExpressionMatching.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -94,11 +93,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SeializeandDeserializeBinaryTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SeializeandDeserializeBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SeializeandDeserializeBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="795">
               <caret line="53" column="44" lean-forward="false" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegularExpressionMatching.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RegularExpressionMatching.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -126,6 +135,7 @@
         <option value="$PROJECT_DIR$/DecodeWays.java" />
         <option value="$PROJECT_DIR$/Codec.java" />
         <option value="$PROJECT_DIR$/SeializeandDeserializeBinaryTree.java" />
+        <option value="$PROJECT_DIR$/RegularExpressionMatching.java" />
       </list>
     </option>
   </component>
@@ -296,12 +306,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507240187363</updated>
       <workItem from="1507240188722" duration="1269000" />
-      <workItem from="1507340875043" duration="2013000" />
+      <workItem from="1507340875043" duration="2195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3282000" />
+    <option name="totallyTimeSpent" value="3464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="329" y="173" width="1440" height="810" extended-state="0" />
@@ -430,6 +440,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="53" column="44" lean-forward="false" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegularExpressionMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding />
         </state>
       </provider>
