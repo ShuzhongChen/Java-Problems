@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae6cf553-e405-490d-b5c7-cbacaa958400" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AddBinary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DecodeWays.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LetterCombinationsofaPhoneNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TaskScheduler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SeializeandDeserializeBinaryTree.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,11 +84,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DecodeWays.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DecodeWays.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DecodeWays.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeializeandDeserializeBinaryTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SeializeandDeserializeBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="53" column="44" lean-forward="false" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -117,6 +124,8 @@
         <option value="$PROJECT_DIR$/TaskScheduler.java" />
         <option value="$PROJECT_DIR$/LetterCombinationsofaPhoneNumber.java" />
         <option value="$PROJECT_DIR$/DecodeWays.java" />
+        <option value="$PROJECT_DIR$/Codec.java" />
+        <option value="$PROJECT_DIR$/SeializeandDeserializeBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -127,8 +136,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="102" />
-    <option name="y" value="254" />
+    <option name="x" value="329" />
+    <option name="y" value="173" />
     <option name="width" value="1440" />
     <option name="height" value="810" />
   </component>
@@ -287,15 +296,15 @@
       <option name="presentableId" value="Default" />
       <updated>1507240187363</updated>
       <workItem from="1507240188722" duration="1269000" />
-      <workItem from="1507340875043" duration="1763000" />
+      <workItem from="1507340875043" duration="2013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3032000" />
+    <option name="totallyTimeSpent" value="3282000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="102" y="254" width="1440" height="810" extended-state="0" />
+    <frame x="329" y="173" width="1440" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -353,14 +362,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RemoveInvalidParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MaximumSizeSubarraySumEqualsk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -373,14 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -405,6 +398,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RemoveInvalidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Codec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeializeandDeserializeBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="44" lean-forward="false" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
           <folding />
         </state>
       </provider>
