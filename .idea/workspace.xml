@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae6cf553-e405-490d-b5c7-cbacaa958400" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Permutations.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SubsetsII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InorderSuccessorinBST.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MinimumWindowSubstring.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MinimumWindowSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="61" lean-forward="false" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MaximumSumof3NonOverlappingSubarrays.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MaximumSumof3NonOverlappingSubarrays.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,11 +97,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubsetsII.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SubsetsII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SubsetsII.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InorderSuccessorinBST.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/InorderSuccessorinBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -162,6 +161,7 @@
         <option value="$PROJECT_DIR$/DiameterofBinaryTree.java" />
         <option value="$PROJECT_DIR$/Permutations.java" />
         <option value="$PROJECT_DIR$/SubsetsII.java" />
+        <option value="$PROJECT_DIR$/InorderSuccessorinBST.java" />
       </list>
     </option>
   </component>
@@ -172,6 +172,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="306" />
     <option name="y" value="230" />
     <option name="width" value="1440" />
     <option name="height" value="670" />
@@ -331,15 +332,15 @@
       <option name="presentableId" value="Default" />
       <updated>1507240187363</updated>
       <workItem from="1507240188722" duration="1269000" />
-      <workItem from="1507340875043" duration="5557000" />
+      <workItem from="1507340875043" duration="5833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6826000" />
+    <option name="totallyTimeSpent" value="7102000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="230" width="1440" height="670" extended-state="0" />
+    <frame x="306" y="230" width="1440" height="670" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -584,6 +585,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InorderSuccessorinBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
         </state>
       </provider>
