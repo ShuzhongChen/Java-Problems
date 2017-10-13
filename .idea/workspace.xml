@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae6cf553-e405-490d-b5c7-cbacaa958400" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DiameterofBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Permutations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SubsetsII.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,28 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NumberofIslands.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NumberofIslands.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindtheCelebrity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FindtheCelebrity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#595#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MinimumWindowSubstring.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MinimumWindowSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,11 +88,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiameterofBinaryTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DiameterofBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DiameterofBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Permutations.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Permutations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubsetsII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SubsetsII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -161,6 +160,8 @@
         <option value="$PROJECT_DIR$/WordBreak.java" />
         <option value="$PROJECT_DIR$/ValidPalindrome.java" />
         <option value="$PROJECT_DIR$/DiameterofBinaryTree.java" />
+        <option value="$PROJECT_DIR$/Permutations.java" />
+        <option value="$PROJECT_DIR$/SubsetsII.java" />
       </list>
     </option>
   </component>
@@ -171,10 +172,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="42" />
-    <option name="y" value="209" />
+    <option name="y" value="230" />
     <option name="width" value="1440" />
-    <option name="height" value="769" />
+    <option name="height" value="670" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -331,15 +331,15 @@
       <option name="presentableId" value="Default" />
       <updated>1507240187363</updated>
       <workItem from="1507240188722" duration="1269000" />
-      <workItem from="1507340875043" duration="5135000" />
+      <workItem from="1507340875043" duration="5557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6404000" />
+    <option name="totallyTimeSpent" value="6826000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="209" width="1440" height="769" extended-state="0" />
+    <frame x="0" y="230" width="1440" height="670" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -568,6 +568,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SubsetsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
       </provider>
