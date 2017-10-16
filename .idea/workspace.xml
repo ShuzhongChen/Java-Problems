@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae6cf553-e405-490d-b5c7-cbacaa958400" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopulatingNextRightPointersinEachNodeII.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,16 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ContinuousSubarraySum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ContinuousSubarraySum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BinaryTreeLevelOrderTraversal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BinaryTreeLevelOrderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +93,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pow.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Pow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pow.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PopulatingNextRightPointersinEachNodeII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PopulatingNextRightPointersinEachNodeII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -183,6 +183,7 @@
         <option value="$PROJECT_DIR$/BrickWall.java" />
         <option value="$PROJECT_DIR$/PermutationsII.java" />
         <option value="$PROJECT_DIR$/Pow.java" />
+        <option value="$PROJECT_DIR$/PopulatingNextRightPointersinEachNodeII.java" />
       </list>
     </option>
   </component>
@@ -353,12 +354,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507240187363</updated>
       <workItem from="1507240188722" duration="1269000" />
-      <workItem from="1507340875043" duration="12879000" />
+      <workItem from="1507340875043" duration="13020000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14148000" />
+    <option name="totallyTimeSpent" value="14289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="259" width="1440" height="670" extended-state="0" />
@@ -403,14 +404,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MoveZero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MoveZero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -814,6 +807,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PopulatingNextRightPointersinEachNodeII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
           <folding />
         </state>
       </provider>
