@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae6cf553-e405-490d-b5c7-cbacaa958400" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RotateArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Numberof1Bits.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,16 +19,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="585">
               <caret line="39" column="1" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExcelSheetColumnTitle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExcelSheetColumnTitle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -106,11 +97,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RotateArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RotateArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RotateArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="313">
               <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Numberof1Bits.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Numberof1Bits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -137,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/OneEditDistance.java" />
         <option value="$PROJECT_DIR$/FlattenNestedListIterator.java" />
         <option value="$PROJECT_DIR$/WordBreak.java" />
         <option value="$PROJECT_DIR$/ValidPalindrome.java" />
@@ -188,6 +188,7 @@
         <option value="$PROJECT_DIR$/ExcelSheetColumnNumber.java" />
         <option value="$PROJECT_DIR$/FactorialTrailingZeroes.java" />
         <option value="$PROJECT_DIR$/RotateArray.java" />
+        <option value="$PROJECT_DIR$/Numberof1Bits.java" />
       </list>
     </option>
   </component>
@@ -360,12 +361,12 @@
       <workItem from="1507240188722" duration="1269000" />
       <workItem from="1507340875043" duration="16016000" />
       <workItem from="1508560507587" duration="2427000" />
-      <workItem from="1508825038533" duration="708000" />
+      <workItem from="1508825038533" duration="947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20420000" />
+    <option name="totallyTimeSpent" value="20659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="562" y="398" width="1440" height="488" extended-state="0" />
@@ -410,13 +411,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OneEditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FlattenNestedListIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="635">
@@ -778,6 +772,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
           <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Numberof1Bits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
