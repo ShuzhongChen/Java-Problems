@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae6cf553-e405-490d-b5c7-cbacaa958400" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PowerofTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReverseBits.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,19 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FactorialTrailingZeroes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FactorialTrailingZeroes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              <folding>
-                <element signature="e#54#55#0" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RotateArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RotateArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PowerofTwo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PowerofTwo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PowerofTwo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -120,6 +107,16 @@
                 <element signature="e#56#57#0" expanded="true" />
                 <element signature="e#106#107#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseBits.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReverseBits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -145,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MultiplyStrings.java" />
         <option value="$PROJECT_DIR$/ValidateBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/ExclusiveTimeofFunctions.java" />
         <option value="$PROJECT_DIR$/MaximumSwap.java" />
@@ -196,6 +192,7 @@
         <option value="$PROJECT_DIR$/DeleteNodeinaLinkedList.java" />
         <option value="$PROJECT_DIR$/ImplementQueueusingStacks.java" />
         <option value="$PROJECT_DIR$/PowerofTwo.java" />
+        <option value="$PROJECT_DIR$/ReverseBits.java" />
       </list>
     </option>
   </component>
@@ -368,12 +365,12 @@
       <workItem from="1507240188722" duration="1269000" />
       <workItem from="1507340875043" duration="16016000" />
       <workItem from="1508560507587" duration="2427000" />
-      <workItem from="1508825038533" duration="3541000" />
+      <workItem from="1508825038533" duration="3871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23253000" />
+    <option name="totallyTimeSpent" value="23583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="410" width="1440" height="807" extended-state="0" />
@@ -418,13 +415,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MultiplyStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ValidateBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -803,6 +793,14 @@
             <element signature="e#56#57#0" expanded="true" />
             <element signature="e#106#107#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReverseBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
