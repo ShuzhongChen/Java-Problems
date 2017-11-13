@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae6cf553-e405-490d-b5c7-cbacaa958400" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MissingNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FirstBadVersion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -76,12 +77,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MissingNumber.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MissingNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MissingNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstBadVersion.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FirstBadVersion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#532#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,16 +128,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountPrimes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CountPrimes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -146,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RandomPickIndex.java" />
         <option value="$PROJECT_DIR$/TotalHammingDistance.java" />
         <option value="$PROJECT_DIR$/ProductofArrayExceptSelf.java" />
         <option value="$PROJECT_DIR$/MinimumSizeSubsarraySum.java" />
@@ -197,6 +199,7 @@
         <option value="$PROJECT_DIR$/InvertBinaryTree.java" />
         <option value="$PROJECT_DIR$/AddDigits.java" />
         <option value="$PROJECT_DIR$/MissingNumber.java" />
+        <option value="$PROJECT_DIR$/FirstBadVersion.java" />
       </list>
     </option>
   </component>
@@ -207,8 +210,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="174" />
-    <option name="y" value="301" />
+    <option name="x" value="523" />
+    <option name="y" value="269" />
     <option name="width" value="1440" />
     <option name="height" value="759" />
   </component>
@@ -364,15 +367,15 @@
       <workItem from="1507240188722" duration="1269000" />
       <workItem from="1507340875043" duration="16016000" />
       <workItem from="1508560507587" duration="2427000" />
-      <workItem from="1508825038533" duration="12519000" />
+      <workItem from="1508825038533" duration="14518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32231000" />
+    <option name="totallyTimeSpent" value="34230000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="174" y="301" width="1440" height="759" extended-state="0" />
+    <frame x="523" y="269" width="1440" height="759" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -414,13 +417,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MinimumSizeSubsarraySum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ContinuousSubarraySum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -822,9 +818,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MissingNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstBadVersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#532#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
