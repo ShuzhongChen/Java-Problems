@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae6cf553-e405-490d-b5c7-cbacaa958400" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AddDigits.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MissingNumber.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddDigits.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AddDigits.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AddDigits.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -72,6 +72,16 @@
                 <element signature="e#51#52#0" expanded="true" />
                 <element signature="e#117#118#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MissingNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MissingNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -100,16 +110,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsomorphicStrings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IsomorphicStrings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -146,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LowestCommonAncestorofaBinaryTree.java" />
         <option value="$PROJECT_DIR$/RandomPickIndex.java" />
         <option value="$PROJECT_DIR$/TotalHammingDistance.java" />
         <option value="$PROJECT_DIR$/ProductofArrayExceptSelf.java" />
@@ -197,6 +196,7 @@
         <option value="$PROJECT_DIR$/ImplementStackusingQueues.java" />
         <option value="$PROJECT_DIR$/InvertBinaryTree.java" />
         <option value="$PROJECT_DIR$/AddDigits.java" />
+        <option value="$PROJECT_DIR$/MissingNumber.java" />
       </list>
     </option>
   </component>
@@ -207,8 +207,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="195" />
-    <option name="y" value="157" />
+    <option name="x" value="174" />
+    <option name="y" value="301" />
     <option name="width" value="1440" />
     <option name="height" value="759" />
   </component>
@@ -364,15 +364,15 @@
       <workItem from="1507240188722" duration="1269000" />
       <workItem from="1507340875043" duration="16016000" />
       <workItem from="1508560507587" duration="2427000" />
-      <workItem from="1508825038533" duration="12280000" />
+      <workItem from="1508825038533" duration="12519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31992000" />
+    <option name="totallyTimeSpent" value="32231000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="195" y="157" width="1440" height="759" extended-state="0" />
+    <frame x="174" y="301" width="1440" height="759" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -414,13 +414,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProductofArrayExceptSelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MinimumSizeSubsarraySum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -824,6 +817,14 @@
             <element signature="e#51#52#0" expanded="true" />
             <element signature="e#117#118#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MissingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
