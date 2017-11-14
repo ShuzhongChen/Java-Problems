@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae6cf553-e405-490d-b5c7-cbacaa958400" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FirstBadVersion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RangeSumQueryImmutable.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,16 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RemoveInvalidParentheses.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RemoveInvalidParentheses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TaskScheduler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TaskScheduler.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,13 +76,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstBadVersion.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FirstBadVersion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FirstBadVersion.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding>
                 <element signature="e#0#532#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RangeSumQueryImmutable.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RangeSumQueryImmutable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+              <folding>
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -149,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TotalHammingDistance.java" />
         <option value="$PROJECT_DIR$/ProductofArrayExceptSelf.java" />
         <option value="$PROJECT_DIR$/MinimumSizeSubsarraySum.java" />
         <option value="$PROJECT_DIR$/ContinuousSubarraySum.java" />
@@ -200,6 +201,7 @@
         <option value="$PROJECT_DIR$/AddDigits.java" />
         <option value="$PROJECT_DIR$/MissingNumber.java" />
         <option value="$PROJECT_DIR$/FirstBadVersion.java" />
+        <option value="$PROJECT_DIR$/RangeSumQueryImmutable.java" />
       </list>
     </option>
   </component>
@@ -367,12 +369,12 @@
       <workItem from="1507240188722" duration="1269000" />
       <workItem from="1507340875043" duration="16016000" />
       <workItem from="1508560507587" duration="2427000" />
-      <workItem from="1508825038533" duration="14518000" />
+      <workItem from="1508825038533" duration="15411000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34230000" />
+    <option name="totallyTimeSpent" value="35123000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="523" y="269" width="1440" height="759" extended-state="0" />
@@ -417,13 +419,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ContinuousSubarraySum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BinaryTreeLevelOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -830,6 +825,17 @@
           <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding>
             <element signature="e#0#532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RangeSumQueryImmutable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
           </folding>
         </state>
       </provider>
