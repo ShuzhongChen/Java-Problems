@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae6cf553-e405-490d-b5c7-cbacaa958400" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RangeSumQueryImmutable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PowerofThree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TaskScheduler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TaskScheduler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TaskSchedulerNotChangeOrder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TaskSchedulerNotChangeOrder.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -88,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RangeSumQueryImmutable.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RangeSumQueryImmutable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RangeSumQueryImmutable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
@@ -96,6 +87,19 @@
               <folding>
                 <element signature="e#297#298#0" expanded="true" />
                 <element signature="e#345#346#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PowerofThree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PowerofThree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding>
+                <element signature="e#58#59#0" expanded="true" />
+                <element signature="e#111#112#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,7 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProductofArrayExceptSelf.java" />
         <option value="$PROJECT_DIR$/MinimumSizeSubsarraySum.java" />
         <option value="$PROJECT_DIR$/ContinuousSubarraySum.java" />
         <option value="$PROJECT_DIR$/BinaryTreeLevelOrderTraversal.java" />
@@ -202,6 +205,7 @@
         <option value="$PROJECT_DIR$/MissingNumber.java" />
         <option value="$PROJECT_DIR$/FirstBadVersion.java" />
         <option value="$PROJECT_DIR$/RangeSumQueryImmutable.java" />
+        <option value="$PROJECT_DIR$/PowerofThree.java" />
       </list>
     </option>
   </component>
@@ -212,8 +216,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="523" />
-    <option name="y" value="269" />
+    <option name="x" value="85" />
+    <option name="y" value="258" />
     <option name="width" value="1440" />
     <option name="height" value="759" />
   </component>
@@ -369,15 +373,15 @@
       <workItem from="1507240188722" duration="1269000" />
       <workItem from="1507340875043" duration="16016000" />
       <workItem from="1508560507587" duration="2427000" />
-      <workItem from="1508825038533" duration="15411000" />
+      <workItem from="1508825038533" duration="16245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35123000" />
+    <option name="totallyTimeSpent" value="35957000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="523" y="269" width="1440" height="759" extended-state="0" />
+    <frame x="85" y="258" width="1440" height="759" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -419,13 +423,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BinaryTreeLevelOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WallsandGates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -836,6 +833,17 @@
           <folding>
             <element signature="e#297#298#0" expanded="true" />
             <element signature="e#345#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PowerofThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding>
+            <element signature="e#58#59#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
           </folding>
         </state>
       </provider>
