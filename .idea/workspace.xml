@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae6cf553-e405-490d-b5c7-cbacaa958400" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FirstUniqueCharacterinaString.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/npm-debug.log" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FindtheDifference.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,19 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RangeSumQueryImmutable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RangeSumQueryImmutable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-              <folding>
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PowerofThree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PowerofThree.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,11 +99,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstUniqueCharacterinaString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FirstUniqueCharacterinaString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FirstUniqueCharacterinaString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindtheDifference.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FindtheDifference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -144,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BrickWall.java" />
         <option value="$PROJECT_DIR$/PermutationsII.java" />
         <option value="$PROJECT_DIR$/Pow.java" />
         <option value="$PROJECT_DIR$/PopulatingNextRightPointersinEachNodeII.java" />
@@ -195,6 +190,7 @@
         <option value="$PROJECT_DIR$/RansomNote.java" />
         <option value="$PROJECT_DIR$/ValidPerfectSquare.java" />
         <option value="$PROJECT_DIR$/FirstUniqueCharacterinaString.java" />
+        <option value="$PROJECT_DIR$/FindtheDifference.java" />
       </list>
     </option>
   </component>
@@ -205,8 +201,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="34" />
-    <option name="y" value="399" />
+    <option name="x" value="253" />
+    <option name="y" value="240" />
     <option name="width" value="1440" />
     <option name="height" value="759" />
   </component>
@@ -367,15 +363,15 @@
       <workItem from="1511410860195" duration="638000" />
       <workItem from="1511467316729" duration="1026000" />
       <workItem from="1512086353291" duration="253000" />
-      <workItem from="1512523760641" duration="29000" />
+      <workItem from="1512523760641" duration="576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39338000" />
+    <option name="totallyTimeSpent" value="39885000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="399" width="1440" height="759" extended-state="0" />
+    <frame x="253" y="240" width="1440" height="759" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -417,13 +413,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PopulatingNextRightPointersinEachNodeII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sqrt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -785,6 +774,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindtheDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding />
         </state>
       </provider>
